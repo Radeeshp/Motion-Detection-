@@ -46,6 +46,18 @@ cv2.imshow()-Its used to show the image to the user
 
 cv2.waitKey(1)-It used for a key press event 
 
+## Requirements:
+- Python
+- cv2
+- video recording
+
+## Personalization
+
+These changes should be made in the parameters of the function cv2.VideoCapture() in line 5
+
+-To detect motion in a video ,the video's location must be passed as a parameter in this function cv2.VideoCapture("location")  
+
+-To detect motion in a camera , 0 should be passed as a  parameter in the function cv2.VideoCapture()::-  cv2.VideoCapture(0)
 
 
 
