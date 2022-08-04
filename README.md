@@ -1,6 +1,10 @@
 # Motion-Detection
+## Aim:
 To detect motion in a camera feed or video/recording
-## Theory/Working:
+
+## Description:
+A project in python using open cv to detect motion in a camera feed or video/recording .
+## Theory:
 This project is to detect motion in camera feed or video recording .
 
 It detects motion by storing a frame where there is no motion or the intial frame say i_frame ,and it takes the current frame say cur_frame(from the camera feed or
