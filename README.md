@@ -63,5 +63,8 @@ These changes should be made in the parameters of the function cv2.VideoCapture(
 
 -To detect motion in a camera , 0 should be passed as a  parameter in the function cv2.VideoCapture()::-  cv2.VideoCapture(0)
 
-
+##References:
+-udemy  :https://www.udemy.com/?utm=8da151da695eb887f7bf2f6a110377a6&track=1&pt=2
+-google :https://www.google.co.in/
+-opencv :https://opencv.org/
 
